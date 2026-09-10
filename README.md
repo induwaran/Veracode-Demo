@@ -1,3 +1,5 @@
+> **Fork reference — original: [`veracode/verademo`](https://github.com/veracode/verademo) (VeraDemo — Blab-a-Gag).** Kept for SAST/DAST comparison and pipeline reference. For my original engineering lab, see [`induwaran/veracode-sast-sca-dast-lab`](https://github.com/induwaran/veracode-sast-sca-dast-lab).
+
 # VeraDemo - Blab-a-Gag
 
 ### Notice
